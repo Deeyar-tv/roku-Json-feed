@@ -54,7 +54,7 @@
     {
       "id": "roku_feed_ds",
       "title": "Deeyar TV Additional Feed",
-      "feed_url": "https://raw.githubusercontent.com/Deeyar-tv/dtv_feed/main/dtv_feed.json"
+      "feed_url": "https://raw.githubusercontent.com/Deeyar-tv/roku-Json-feed/refs/heads/main/rjf"
     }
   ],
   "contact_info": {
